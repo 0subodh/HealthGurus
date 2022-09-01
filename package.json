@@ -1,0 +1,25 @@
+{
+  "name": "healthgurus",
+  "version": "1.0.0",
+  "description": "First phase of development of HealthGurus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0subodh/HealthGurus.git"
+  },
+  "keywords": [
+    "health"
+  ],
+  "author": "Subodh,Ram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0subodh/HealthGurus/issues"
+  },
+  "homepage": "https://github.com/0subodh/HealthGurus#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
